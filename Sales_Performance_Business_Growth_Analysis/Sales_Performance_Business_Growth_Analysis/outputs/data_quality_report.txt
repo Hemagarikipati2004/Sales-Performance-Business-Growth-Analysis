@@ -1,0 +1,9 @@
+SALES DATA QUALITY REPORT
+=========================
+Rows before cleaning: 6000
+Rows after cleaning: 6000
+Duplicate order IDs remaining: 0
+Missing values remaining: 0
+Date range: 2023-01-01 to 2025-12-31
+Cleaned CSV: C:\Users\ASUS\Downloads\Sales_Performance_Business_Growth_Analysis\Sales_Performance_Business_Growth_Analysis\data\sales_clean.csv
+SQLite database: C:\Users\ASUS\Downloads\Sales_Performance_Business_Growth_Analysis\Sales_Performance_Business_Growth_Analysis\data\sales.db
