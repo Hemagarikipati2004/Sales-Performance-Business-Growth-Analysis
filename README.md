@@ -1,4 +1,4 @@
-#📊Sales-Performance-Business-Growth-Analysis
+## 📊Sales-Performance-Business-Growth-Analysis
 End-to-end sales analytics project using Python, SQL, and Streamlit.
 
 ## 📌 Project Overview
